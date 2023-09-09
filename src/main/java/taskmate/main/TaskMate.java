@@ -9,6 +9,11 @@ import taskmate.tools.Ui;
 
 import java.io.IOException;
 
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.control.Label;
+import javafx.stage.Stage;
+
 public class TaskMate {
 
     static String CHATBOT_NAME = "TaskMate";
